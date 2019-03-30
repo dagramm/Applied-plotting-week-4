@@ -1,0 +1,109 @@
+Moon	Moon Product	Quantity
+Emolgranlan III - Moon 1	Brilliant Gneiss	0.283004045
+Emolgranlan III - Moon 1	Coesite	0.095996551
+Emolgranlan III - Moon 1	Resplendant Kernite	0.312690407
+Emolgranlan III - Moon 1	Stable Veldspar	0.308308989
+Emolgranlan III - Moon 2	Glossy Scordite	0.356958807
+Emolgranlan III - Moon 2	Lustrous Hedbergite	0.242959246
+Emolgranlan III - Moon 2	Sparkling Plagioclase	0.317000955
+Emolgranlan III - Moon 2	Sylvite	0.083081
+Emolgranlan III - Moon 4	Sparkling Plagioclase	0.220513865
+Emolgranlan III - Moon 4	Stable Veldspar	0.451739162
+Emolgranlan III - Moon 4	Sylvite	0.327746958
+Emolgranlan III - Moon 5	Bitumens	0.082887448
+Emolgranlan III - Moon 5	Brilliant Gneiss	0.274774879
+Emolgranlan III - Moon 5	Immaculate Jaspet	0.321139455
+Emolgranlan III - Moon 5	Platinoid Omber	0.321198195
+Emolgranlan III - Moon 6	Resplendant Kernite	0.199076548
+Emolgranlan III - Moon 6	Sparkling Plagioclase	0.512451231
+Emolgranlan III - Moon 6	Sylvite	0.288472205
+Emolgranlan III - Moon 7	Resplendant Kernite	0.394814461
+Emolgranlan III - Moon 7	Sparkling Plagioclase	0.381079882
+Emolgranlan III - Moon 7	Sylvite	0.224105656
+Emolgranlan III - Moon 8	Flawless Arkonor	0.469707012
+Emolgranlan III - Moon 8	Jet Ochre	0.370330542
+Emolgranlan III - Moon 8	Sylvite	0.15996246
+Emolgranlan IV - Moon 3	Lustrous Hedbergite	0.169836536
+Emolgranlan IV - Moon 3	Stable Veldspar	0.59087795
+Emolgranlan IV - Moon 3	Sylvite	0.239285529
+Emolgranlan IV - Moon 4	Opulent Pyroxeres	0.420422792
+Emolgranlan IV - Moon 4	Pellucid Crokite	0.376405269
+Emolgranlan IV - Moon 4	Sylvite	0.203171954
+Emolgranlan IV - Moon 5	Lustrous Hedbergite	0.414698511
+Emolgranlan IV - Moon 5	Sparkling Plagioclase	0.381366223
+Emolgranlan IV - Moon 5	Zeolites	0.203935295
+Emolgranlan V - Moon 2	Coesite	0.11252515
+Emolgranlan V - Moon 2	Immaculate Jaspet	0.32115078
+Emolgranlan V - Moon 2	Platinoid Omber	0.288716584
+Emolgranlan V - Moon 2	Stable Veldspar	0.277607471
+Emolgranlan V - Moon 4	Bitumens	0.30791676
+Emolgranlan V - Moon 4	Brilliant Gneiss	0.209626198
+Emolgranlan V - Moon 4	Resplendant Kernite	0.322682381
+Emolgranlan V - Moon 4	Sparkling Plagioclase	0.159774676
+Emolgranlan V - Moon 7	Brilliant Gneiss	0.308168858
+Emolgranlan V - Moon 7	Lustrous Hedbergite	0.31815353
+Emolgranlan V - Moon 7	Scintillating Hemorphite	0.277510405
+Emolgranlan V - Moon 7	Sylvite	0.096167199
+Emolgranlan V - Moon 8	Dazzling Spodumain	0.474004775
+Emolgranlan V - Moon 8	Opulent Pyroxeres	0.204488263
+Emolgranlan V - Moon 8	Zeolites	0.321506977
+Emolgranlan V - Moon 9	Stable Veldspar	0.884743452
+Emolgranlan V - Moon 9	Sylvite	0.11525654
+Emolgranlan V - Moon 10	Lustrous Hedbergite	0.287181228
+Emolgranlan V - Moon 10	Opulent Pyroxeres	0.278567493
+Emolgranlan V - Moon 10	Stable Veldspar	0.324515015
+Emolgranlan V - Moon 10	Zeolites	0.109736256
+Emolgranlan V - Moon 11	Brilliant Gneiss	0.193828195
+Emolgranlan V - Moon 11	Dazzling Spodumain	0.221029043
+Emolgranlan V - Moon 11	Lustrous Hedbergite	0.277296007
+Emolgranlan V - Moon 11	Zeolites	0.307846725
+Emolgranlan V - Moon 12	Platinoid Omber	0.425007969
+Emolgranlan V - Moon 12	Scintillating Hemorphite	0.390968233
+Emolgranlan V - Moon 12	Sylvite	0.184023812
+Emolgranlan V - Moon 13	Cubic Bistot	0.209886864
+Emolgranlan V - Moon 13	Dazzling Spodumain	0.205397829
+Emolgranlan V - Moon 13	Opulent Pyroxeres	0.287813783
+Emolgranlan V - Moon 13	Sylvite	0.296901524
+Emolgranlan V - Moon 14	Dazzling Spodumain	0.294865012
+Emolgranlan V - Moon 14	Opulent Pyroxeres	0.409303933
+Emolgranlan V - Moon 14	Zeolites	0.295831054
+Emolgranlan V - Moon 15	Coesite	0.322386712
+Emolgranlan V - Moon 15	Opulent Pyroxeres	0.196630284
+Emolgranlan V - Moon 15	Resplendant Kernite	0.291571766
+Emolgranlan V - Moon 15	Scintillating Hemorphite	0.189411253
+Emolgranlan VII - Moon 1	Dazzling Spodumain	0.247453034
+Emolgranlan VII - Moon 1	Glossy Scordite	0.224866539
+Emolgranlan VII - Moon 1	Platinoid Omber	0.184234038
+Emolgranlan VII - Moon 1	Zeolites	0.343446404
+Emolgranlan VII - Moon 2	Coesite	0.112703823
+Emolgranlan VII - Moon 2	Jet Ochre	0.299784809
+Emolgranlan VII - Moon 2	Sparkling Plagioclase	0.292127609
+Emolgranlan VII - Moon 2	Stable Veldspar	0.295383751
+Emolgranlan VII - Moon 7	Bitumens	0.217011958
+Emolgranlan VII - Moon 7	Glossy Scordite	0.357347935
+Emolgranlan VII - Moon 7	Stable Veldspar	0.425640106
+Emolgranlan VII - Moon 8	Coesite	0.171194971
+Emolgranlan VII - Moon 8	Pellucid Crokite	0.396197855
+Emolgranlan VII - Moon 8	Scintillating Hemorphite	0.432607144
+Emolgranlan VII - Moon 9	Pellucid Crokite	0.373250842
+Emolgranlan VII - Moon 9	Resplendant Kernite	0.37193346
+Emolgranlan VII - Moon 9	Zeolites	0.254815698
+Emolgranlan VII - Moon 11	Coesite	0.191098347
+Emolgranlan VII - Moon 11	Glossy Scordite	0.401795805
+Emolgranlan VII - Moon 11	Stable Veldspar	0.407105863
+Emolgranlan VII - Moon 13	Resplendant Kernite	0.365022182
+Emolgranlan VII - Moon 13	Sparkling Plagioclase	0.462022573
+Emolgranlan VII - Moon 13	Sylvite	0.172955245
+Emolgranlan VII - Moon 14	Cubic Bistot	0.374507517
+Emolgranlan VII - Moon 14	Platinoid Omber	0.401043355
+Emolgranlan VII - Moon 14	Sylvite	0.224449128
+Emolgranlan VII - Moon 16	Coesite	0.329516083
+Emolgranlan VII - Moon 16	Opulent Pyroxeres	0.344484836
+Emolgranlan VII - Moon 16	Platinoid Omber	0.164902493
+Emolgranlan VII - Moon 16	Stable Veldspar	0.161096603
+Emolgranlan VII - Moon 18	Bitumens	0.177007601
+Emolgranlan VII - Moon 18	Glossy Scordite	0.41353792
+Emolgranlan VII - Moon 18	Jet Ochre	0.409454495
+Emolgranlan VIII - Moon 1	Coesite	0.201931149
+Emolgranlan VIII - Moon 1	Immaculate Jaspet	0.411565363
+Emolgranlan VIII - Moon 1	Resplendant Kernite	0.386503488
